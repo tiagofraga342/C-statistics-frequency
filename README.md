@@ -9,7 +9,7 @@ The program is built to calculate the following parameters:
 
 The program also can sort data to ascending order by using the bubble sort algorithm.
 
-The program is already compiled and coded to Windows environment, but you can delete the windows.h function, substitute to Linux variations of the implementations and re-compile.  
+The program is already compiled and coded to Windows environment, but you can delete the windows.h function, substitute to Linux variations of the implementations and re-compile it.  
 
 #### Work in progress...
 
